@@ -68,7 +68,7 @@ h4 {
 
 @media  (max-width: 767px) {
     body {
-        margin: auto;
+        margin: 0;
     }
     
     h1 {
